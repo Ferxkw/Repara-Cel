@@ -1,0 +1,3 @@
+Repara-Cel ToolPro Server V0.1 beta
+Desactivado el reinicio despues de desactivar las actualizaciones samsung,
+Solucionados varios bugs,
