@@ -1,3 +1,6 @@
-Repara-Cel ToolPro Server V0.1 beta
--Desactivado el reinicio despues de desactivar las actualizaciones samsung.
--Solucionados varios bugs.
+Repara-Cel ToolPro Server V0.2 beta
++ Actualizacion pequeña
+- Agregada nueva opcion crash mtk para mayor compatibilidad en samsung ubicada en pestaña emmc new.
+- Agregada la particion boot en la copia de seguridad mtk.
+- Se elimino la particion vmeta para extraer el boot para root.
+- Se corrigieron varios errores.
