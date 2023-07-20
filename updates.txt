@@ -1,3 +1,8 @@
+Repara-Cel ToolPro Server V0.3 beta
++ Actualizacion instalador completo
+-cambio de servidor 
+-compatibilidad con windows 7
+-------------------------
 Repara-Cel ToolPro Server V0.2 beta
 + Actualizacion pequeña
 - Agregada nueva opcion crash mtk para mayor compatibilidad en samsung ubicada en pestaña emmc new.
